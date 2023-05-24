@@ -1,4 +1,4 @@
-# Telegram-General-Store-Bot
+# Telegram-General-Store-Bot / JMD Store
 
 ### Functionalities
 
